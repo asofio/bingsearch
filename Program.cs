@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using Newtonsoft.Json;
 
-string subscriptionKey = "806cee445dd44effb8e02411a2dd06a6";
+string subscriptionKey = "{Your subscription key here}";
 string endpoint = "https://api.bing.microsoft.com/v7.0/search";
 
 const string query = "hummingbirds";
