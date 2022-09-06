@@ -1,0 +1,17 @@
+/Users/anthony/Documents/repos/bingsearch/bin/Debug/net6.0/bingsearch
+/Users/anthony/Documents/repos/bingsearch/bin/Debug/net6.0/bingsearch.deps.json
+/Users/anthony/Documents/repos/bingsearch/bin/Debug/net6.0/bingsearch.runtimeconfig.json
+/Users/anthony/Documents/repos/bingsearch/bin/Debug/net6.0/bingsearch.dll
+/Users/anthony/Documents/repos/bingsearch/bin/Debug/net6.0/bingsearch.pdb
+/Users/anthony/Documents/repos/bingsearch/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/anthony/Documents/repos/bingsearch/obj/Debug/net6.0/bingsearch.csproj.AssemblyReference.cache
+/Users/anthony/Documents/repos/bingsearch/obj/Debug/net6.0/bingsearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthony/Documents/repos/bingsearch/obj/Debug/net6.0/bingsearch.AssemblyInfoInputs.cache
+/Users/anthony/Documents/repos/bingsearch/obj/Debug/net6.0/bingsearch.AssemblyInfo.cs
+/Users/anthony/Documents/repos/bingsearch/obj/Debug/net6.0/bingsearch.csproj.CoreCompileInputs.cache
+/Users/anthony/Documents/repos/bingsearch/obj/Debug/net6.0/bingsearch.csproj.CopyComplete
+/Users/anthony/Documents/repos/bingsearch/obj/Debug/net6.0/bingsearch.dll
+/Users/anthony/Documents/repos/bingsearch/obj/Debug/net6.0/refint/bingsearch.dll
+/Users/anthony/Documents/repos/bingsearch/obj/Debug/net6.0/bingsearch.pdb
+/Users/anthony/Documents/repos/bingsearch/obj/Debug/net6.0/bingsearch.genruntimeconfig.cache
+/Users/anthony/Documents/repos/bingsearch/obj/Debug/net6.0/ref/bingsearch.dll

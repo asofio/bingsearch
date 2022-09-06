@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vKl7ez/JRfrWYIFBNGmstby82JQOm/shNhajHd+i2CNKiABpM3Cjmq6F9oqM1gjJMVMcLQkn6LD96VsGrdFvfA==",
+  "success": true,
+  "projectFilePath": "/Users/anthony/Documents/repos/bingsearch/bingsearch.csproj",
+  "expectedPackageFiles": [
+    "/Users/anthony/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
